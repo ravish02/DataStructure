@@ -1,4 +1,3 @@
-# MyRnDSetup 
 # Data structure 
 
 # binarysearch
