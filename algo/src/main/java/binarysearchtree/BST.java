@@ -100,6 +100,7 @@ public class BST {
                 parentNode.rightChild = null;
             }
         }
+        
         //if node has one child
         else if (nodeToDelete.rightChild != null) {
              if (isLeftChild)
